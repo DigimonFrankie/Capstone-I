@@ -49,3 +49,7 @@
 - General statistical analysis before vs. During pandemic (chose a specific month or months.
 
 8. Build a model to predict the house price
+
+
+#The dataset of the properties sales can be acessed at:
+https://drexel0-my.sharepoint.com/:t:/r/personal/gsf35_drexel_edu/Documents/2020%20-%209%20-%20Fall/DSCI591%20-%20Data%20Science%20Capstone/Pennsylvania_Sold_Properties.txt?csf=1&web=1&e=UNeHxE

@@ -1,0 +1,5 @@
+property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
+M3777185944,Price Changed,2020-07-31T17:00:00Z,354000,,,-15000,1248,BrightMLS,MLS #PAPH900182
+M3777185944,Price Changed,2020-07-22T17:00:00Z,369000,,,-10000,1248,BrightMLS,MLS #PAPH900182
+M3777185944,Listed,2020-06-02T17:00:00Z,379000,,,0,1248,BrightMLS,MLS #PAPH900182
+M3777185944,Sold,2018-10-09T17:00:00Z,300000,,,0,1248,,Public Record

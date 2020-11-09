@@ -1,0 +1,2 @@
+property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
+M3052189108,Listed,2020-01-10T17:00:00Z,175000,,,0,1200,BrightMLS,MLS #PAPH862228

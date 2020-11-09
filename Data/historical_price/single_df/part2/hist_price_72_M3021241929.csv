@@ -1,0 +1,4 @@
+property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
+M3021241929,Listed,2020-10-04T17:00:00Z,155000,,,0,800,BrightMLS,MLS #PAPH941882
+M3021241929,Sold,2019-04-05T17:00:00Z,65000,,,0,800,,Public Record
+M3021241929,Listed,2018-08-23T17:00:00Z,51000,,,0,800,BrightMLS,MLS #1002287774

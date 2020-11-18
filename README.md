@@ -4,34 +4,30 @@
 
 - Data Source
 
-- Identify the analytics questions
-
 - Data Pre-processing
 
 - EDA
-
 ## Steps
 
-1. Get the data by using Realtor API
+1. Get the data by using Realtor API(check the code folder)
 
-2. Extract the data for the Philadelphia PA to do EDA
+2. Extract the data for the Philadelphia PA
 
-3. Pre-processing the data to get rid of useless features
+3. Pre-processing the data to get rid of useless features, convert JSON format to DataFrame, and also split some single columns which has more information into multiple columns(check the code folder)
 
-4. EDA:
+4. EDA for House for Sale, Sold House, and House for Rent(check the EDA folder)
 
-- What is the amount for each type of the house (apartment, condo, house, etc.)?
+- House for Sale
+    - Amount of different property types
+    - Median Listing Price by Property Type
+    - Median Listing Price by Postal Code
+    - (Add more info)
 
-- What is the average price for each type of the house?
+- Sold House
+    - (Add more info)
 
-- What is the average time on Zillow for each type of the house?
-
-- Which type of the house has the most views?
-
-- The distribution of the area of the house.
-
-- Compare pricing just before pandemic hit US with pricing in May or later.
-
-- If listing existed before the pandemic, and remains listed, has its price changed and how?
-
-- General statistical analysis before vs. During pandemic (chose a specific month or months).
+- House for Rent
+    - T-test for mean rent price on Februray and October
+    - Rent house distribution in different region
+    - number of beds distribution
+    - Density price heatmap for the neighborhood in top 10 region

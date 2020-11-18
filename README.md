@@ -30,5 +30,5 @@
 - House for Rent
     - T-test for mean rent price on Februray and October
     - Rent house distribution in different region
-    - number of beds distribution
+    - Number of beds distribution
     - Density price heatmap for the neighborhood in top 10 region

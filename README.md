@@ -6,7 +6,8 @@
 
 - Data Pre-processing
 
-- EDA
+- EDA for House for Sale, Sold House, and House for Rent
+
 ## Steps
 
 1. Get the data by using Realtor API(check the code folder)
@@ -15,7 +16,7 @@
 
 3. Pre-processing the data to get rid of useless features, convert JSON format to DataFrame, and also split some single columns which has more information into multiple columns(check the code folder)
 
-4. EDA for House for Sale, Sold House, and House for Rent(check the EDA folder)
+4. EDA(check the EDA folder)
 
 - House for Sale
     - Amount of different property types

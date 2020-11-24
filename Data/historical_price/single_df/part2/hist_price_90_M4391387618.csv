@@ -1,5 +1,0 @@
-property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
-M4391387618,Price Changed,2019-07-02T17:00:00Z,78500,,,-500,1490,BrightMLS,MLS #PAPH178986
-M4391387618,Price Changed,2019-04-01T17:00:00Z,79000,,,-5999,1490,BrightMLS,MLS #PAPH178986
-M4391387618,Price Changed,2019-01-20T17:00:00Z,84999,,,-1,1490,BrightMLS,MLS #PAPH178986
-M4391387618,Listed,2018-11-21T17:00:00Z,85000,,,0,1490,BrightMLS,MLS #PAPH178986

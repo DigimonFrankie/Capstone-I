@@ -1,4 +1,0 @@
-property_id,event_name,date,price,price_changed,sqft,datasource_name,source
-M3134498203,Sold,2020-11-02T17:00:00Z,240000,-9900,1996,BrightMLS,MLS #PAPH939086
-M3134498203,Listed,2020-09-30T17:00:00Z,249900,0,1996,BrightMLS,MLS #PAPH939086
-M3134498203,Sold,2001-04-23T17:00:00Z,63000,0,1996,,Public Record

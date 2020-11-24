@@ -1,5 +1,0 @@
-property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
-M3445723269,Relisted,2019-07-02T17:00:00Z,270000,,,270000,0,BrightMLS,MLS #PAPH512458
-M3445723269,Listed,2019-01-18T17:00:00Z,270000,,,0,0,BrightMLS,MLS #PAPH512458
-M3445723269,Sold,2006-08-04T17:00:00Z,10000,,,0,0,BrightMLS,MLS #4633514
-M3445723269,Listed,2005-11-11T17:00:00Z,10000,,,0,0,BrightMLS,MLS #4633514

@@ -1,4 +1,0 @@
-property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
-M3113055060,Listed,2020-08-02T17:00:00Z,550000,,,0,2520,BrightMLS,MLS #PAPH901188
-M3113055060,Sold,2013-01-25T17:00:00Z,342500,,,-7400,0,BrightMLS,MLS #6113895
-M3113055060,Listed,2012-09-21T17:00:00Z,349900,,,0,0,BrightMLS,MLS #6113895

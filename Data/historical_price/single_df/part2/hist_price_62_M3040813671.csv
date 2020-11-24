@@ -1,6 +1,0 @@
-property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
-M3040813671,Listed,2020-06-02T17:00:00Z,4950000,,,0,3693,BrightMLS,MLS #PAPH897100
-M3040813671,Sold,2012-12-31T17:00:00Z,2850000,,,0,3693,,Public Record
-M3040813671,Sold,2012-02-03T17:00:00Z,3044278,,,0,3693,BrightMLS,MLS #5758844
-M3040813671,Sold,2010-05-25T17:00:00Z,3044278,,,0,3693,,Public Record
-M3040813671,Listed,2010-05-24T17:00:00Z,3044278,,,0,3693,BrightMLS,MLS #5758844

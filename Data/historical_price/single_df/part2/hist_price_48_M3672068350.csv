@@ -1,7 +1,0 @@
-property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
-M3672068350,Relisted,2020-09-29T17:00:00Z,119900,,,119900,936,BrightMLS,MLS #PAPH916914
-M3672068350,Listed,2020-07-20T17:00:00Z,119900,,,0,936,BrightMLS,MLS #PAPH916914
-M3672068350,Sold,2000-12-05T17:00:00Z,59500,,,0,936,,Public Record
-M3672068350,Sold,1999-02-12T17:00:00Z,44500,,,0,936,,Public Record
-M3672068350,Sold,1991-05-17T17:00:00Z,51400,,,0,936,,Public Record
-M3672068350,Sold,1987-05-19T17:00:00Z,37900,,,0,936,,Public Record

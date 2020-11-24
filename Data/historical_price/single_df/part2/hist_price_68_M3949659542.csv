@@ -1,4 +1,0 @@
-property_id,event_name,date,price,price_range_min,price_range_max,price_changed,sqft,datasource_name,source
-M3949659542,Listed,2020-07-21T17:00:00Z,75000,,,0,0,BrightMLS,MLS #PAPH914322
-M3949659542,Listed,2019-10-23T17:00:00Z,45000,,,0,0,BrightMLS,MLS #PAPH844660
-M3949659542,Listed,2019-03-25T17:00:00Z,45000,,,0,0,BrightMLS,MLS #PAPH772282

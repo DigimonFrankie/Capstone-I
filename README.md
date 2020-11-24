@@ -12,11 +12,11 @@
 
 ## Steps
 
-1. Get the data by using Realtor API(check the API folder)
+1. Get the data by using Realtor API(check the Code folder)
 
 2. Extract the data for the Philadelphia PA
 
-3. Pre-processing the data to get rid of useless features, convert JSON format to DataFrame, and also split some single columns which has more information into multiple columns(check the API folder)
+3. Pre-processing the data to get rid of useless features, convert JSON format to DataFrame, and also split some single columns which has more information into multiple columns(check the Code folder)
 
 4. EDA(check the EDA folder)
 
